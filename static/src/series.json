@@ -1,0 +1,35 @@
+{
+    "data":
+    [ 
+        { "nombre": "BAND OF BROTHERS", "sinopsis": "Narra la historia de la Easy Company, un batallón estadounidense del regimiento 506 de paracaidistas, que luchó en Europa durante la II Guerra Mundial."},
+        { "nombre": "GAME OF THRONES", "sinopsis": "La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales: la crónica de la guerra civil dinástica por el control de Poniente entre varias familias que aspiran al Trono de Hierro; la creciente amenaza de los seres desconocidos que viven al otro lado del muro de hielo; y el viaje de Daenerys Targaryen."},
+        { "nombre": "BREAKING BAD", "sinopsis": "Tras cumplir 50 años, Walter White, un profesor de química se entera de que tiene un cáncer de pulmón incurable. La brutal noticia lo impulsa a dar un drástico cambio a su vida: decide, con la ayuda de un antiguo alumno, fabricar anfetaminas y ponerlas a la venta."},
+        { "nombre": "THE OFFICE", "sinopsis": "Corrosivo retrato de los miembros de una empresa."},
+        { "nombre": "THE SIMPSONS", "sinopsis": "Narra la historia de una peculiar familia (Homero, Marge, Bart, Maggie y Lisa Simpson) y otros divertidos personajes de la localidad norteamericana de Springfield."},
+        { "nombre": "THE EXPANSE", "sinopsis": "Exploración del sistema solar en un futuro distópico." },
+        { "nombre": "MINDHUNTER", "sinopsis": "Agentes del FBI investigan a asesinos en serie." },
+        { "nombre": "CHERNOBYL", "sinopsis": "El desastre nuclear de Chernobyl y sus consecuencias." },
+        { "nombre": "THE WITCHER: BLOOD ORIGIN", "sinopsis": "Precuela de la serie The Witcher." },
+        { "nombre": "THE UMBRELLA ACADEMY", "sinopsis": "Superhéroes disfuncionales intentan salvar el mundo." },
+        { "nombre": "FARGO", "sinopsis": "Crimen y caos en Minnesota." },
+        { "nombre": "THE HAUNTING OF HILL HOUSE", "sinopsis": "Una familia atormentada por su pasado y una casa embrujada." },
+        { "nombre": "DARK", "sinopsis": "Misterios y viajes en el tiempo en un pequeño pueblo alemán." },
+        { "nombre": "BROOKLYN NINE-NINE", "sinopsis": "Locuras en una comisaría de Nueva York." },
+        { "nombre": "THE HANDMAID'S TALE", "sinopsis": "Un futuro distópico con opresión de las mujeres." },
+        { "nombre": "TRUE DETECTIVE", "sinopsis": "Investigaciones criminales y oscuros secretos." },
+        { "nombre": "BETTER CALL SAUL", "sinopsis": "El abogado Jimmy McGill se convierte en Saul Goodman." },
+        { "nombre": "THE CROWN: SEASON 5", "sinopsis": "Más eventos en el reinado de la Reina Isabel II." },
+        { "nombre": "THE MARVELOUS MRS. MAISEL", "sinopsis": "Una ama de casa se convierte en comediante en los años 50." },
+        { "nombre": "STRANGER THINGS 4", "sinopsis": "Nuevas amenazas paranormales en los años 80." },
+        { "nombre": "BLACK MIRROR: BANDERSNATCH", "sinopsis": "Una película interactiva de Black Mirror." },
+        { "nombre": "THE OFFICE: UK", "sinopsis": "La versión británica de la serie de oficina." },
+        { "nombre": "THE MANDALORIAN: SEASON 2", "sinopsis": "Más aventuras en el universo de Star Wars." },
+        { "nombre": "WESTWORLD: SEASON 3", "sinopsis": "Nuevas intrigas en el parque temático." },
+        { "nombre": "MONEY HEIST: PART 5", "sinopsis": "El atraco a la Casa de la Moneda continúa." },
+        { "nombre": "THE SIMPSONS: TREEHOUSE OF HORROR", "sinopsis": "Especial de Halloween de Los Simpson." },
+        { "nombre": "THE WALKING DEAD: WORLD BEYOND", "sinopsis": "Otra perspectiva del apocalipsis zombi." },
+        { "nombre": "THE WITCHER: SEASON 2", "sinopsis": "Más aventuras de Geralt de Rivia." },
+        { "nombre": "PEAKY BLINDERS: SEASON 6", "sinopsis": "La saga de la familia Shelby continúa." },
+        { "nombre": "THE X-FILES", "sinopsis": "Investigaciones de lo paranormal y lo inexplicable." }
+    ]
+}

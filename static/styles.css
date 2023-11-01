@@ -1,0 +1,48 @@
+:root {
+
+}
+
+*
+*:after,
+*:before {
+    box-sizing: border-box;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+body {
+    background-color: rgb(102, 102, 102);
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 4rem;
+}
+
+.main__container {
+    display: flex;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: 1.5rem;
+}
+
+.section__container {
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+}
+
+.sectionBox {
+    display: flex;
+    flex-direction: column;
+
+}
+
+

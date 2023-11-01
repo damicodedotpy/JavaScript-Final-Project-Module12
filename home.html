@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./static/styles.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Finder</h1>
+    </header>
+
+    <main class="main__container">
+        <div class="section__container">
+            <h2>Movies & Series finder</h2>
+
+            <div class="sectionBox">
+                <select id="databaseSelector">
+                    <option disabled selected>Cathegory</option>
+                    <option>movies</option>
+                    <option>series</option>
+                </select>
+            </div>
+
+            <div class="sectionBox">
+                <input type="text" aria-label="boton de busqueda" id="title">
+                <button type="submit" for="title" id="button">Search</button>
+            </div>
+
+            <div>
+                <ul id="ulList">
+                    
+                </ul>
+            </div>
+
+        </div>
+
+        <div class="section__container">
+            <h2>Sinopsis</h2>
+        </div>
+    </main>
+
+    <script src="./scripts.js"></script>
+</body>
+</html>
