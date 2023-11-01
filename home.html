@@ -3,44 +3,67 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- START: FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap" rel="stylesheet">
+    <!-- END: FONTS -->
+
+    <!-- START: STYLESHEETS -->
     <link rel="stylesheet" href="./static/styles.css">
-    <title>Document</title>
+    <!-- END: STYLESHEETS -->
+
+    <title>Movies & Series</title>
 </head>
 <body>
+    <!-- START: HEADER -->
     <header>
-        <h1>Finder</h1>
+        <h1>Movies & Series finder</h1>
     </header>
+    <!-- END: HEADER -->
 
+    
     <main class="main__container">
+        <!-- START: FILTERS SECTION -->
         <div class="section__container">
-            <h2>Movies & Series finder</h2>
+            <h2>Filter</h2>
 
-            <div class="sectionBox">
-                <select id="databaseSelector">
-                    <option disabled selected>Cathegory</option>
-                    <option>movies</option>
-                    <option>series</option>
-                </select>
+            <div class="sectionsBox">
+                <div class="sectionBox">
+                    <label>Cathegory</label>
+                    <select id="databaseSelector">
+                        <option disabled selected></option>
+                        <option>movies</option>
+                        <option>series</option>
+                    </select>
+                </div>
+    
+                <div class="sectionBox">
+                    <label name="titleName">Name</label>
+                    <input for="titleName" type="text" aria-label="boton de busqueda" id="title">
+                    <button for="title" type="submit"  id="button">Search</button>
+                </div>
             </div>
+        </div>
+        <!-- END: FILTERS SECTION -->
 
-            <div class="sectionBox">
-                <input type="text" aria-label="boton de busqueda" id="title">
-                <button type="submit" for="title" id="button">Search</button>
-            </div>
+
+        <!-- START: MOVIES / SERIES SECTION -->
+        <div class="section__container">
+            <h2>Titles</h2>
 
             <div>
                 <ul id="ulList">
-                    
                 </ul>
             </div>
-
         </div>
-
-        <div class="section__container">
-            <h2>Sinopsis</h2>
-        </div>
+        <!-- END: MOVIES / SERIES SECTION -->
     </main>
 
+
+    <!-- START: SCRIPTS -->
     <script src="./scripts.js"></script>
+    <!-- END: SCRIPTS -->
 </body>
 </html>
