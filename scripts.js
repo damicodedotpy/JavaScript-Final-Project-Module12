@@ -14,7 +14,6 @@ let database;
 
 
 
-
 // This function prevents the input of numbers and symbols in a text input field
 function checkKey(event) {
     // Validate if the key pressed is different than letter, space o delete
